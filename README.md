@@ -1,4 +1,4 @@
-# Portfolio
+# Estudos
 
 ## [Projeto 1: Análise de ações usando Python e Jupyter](https://github.com/vitoooooooooor/Analise-Acoes)
 
